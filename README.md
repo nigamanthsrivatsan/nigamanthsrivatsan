@@ -7,6 +7,6 @@ My goals for 2025 are:
 * Experience in C++ and C#
 * A full portfolio website
 
-I am currently working on a portfolio website.
+I am currently working on a portfolio website. <br> <br><br><br><br><br>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nigamanthsrivatsan&count_private=true&theme=nightowl)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nigamanthsrivatsan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
