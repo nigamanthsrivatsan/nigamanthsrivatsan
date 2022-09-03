@@ -6,3 +6,5 @@ My goals for 2025 are:
 * A project with at-least 100 stars
 * Experience in C++ and C#
 * A full portfolio website
+
+I am currently working on a portfolio website.
