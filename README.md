@@ -8,3 +8,5 @@ My goals for 2025 are:
 * A full portfolio website
 
 I am currently working on a portfolio website.
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nigamanthsrivatsan&count_private=true&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nigamanthsrivatsan)
