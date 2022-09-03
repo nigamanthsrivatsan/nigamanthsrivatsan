@@ -9,4 +9,5 @@ My goals for 2025 are:
 
 I am currently working on a portfolio website. <br> <br><br><br><br><br>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nigamanthsrivatsan&count_private=true&theme=nightowl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<br> <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nigamanthsrivatsan)](https://github.com/anuraghazra/github-readme-stats)
