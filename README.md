@@ -1,11 +1,16 @@
 # nigamanthsrivatsan
 
-> My name is Nigamanth Srivatsan, I live in India. <br>
+> My name is **Nigamanth Srivatsan**, I live in India. <br>
 > Programming is my passion and I've been doing projects seriously since 13. 
 
 ## Links:
 
-* Website: https://nigamanth.com/
+<a href='https://nigamanth.com'>
+<img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.&logoColor=white'>
+</a>
+<a href='mailto:nigamanth.srivatsan@gmail.com'>
+<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
+</a>
 
 ## Popular Work:
 > My most popular repositories arranged by their star count.
