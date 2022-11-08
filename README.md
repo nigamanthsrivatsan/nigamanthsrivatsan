@@ -22,4 +22,5 @@
 ## Contribued To:
 > Every repository that I have commited to. 
 
-* https://github.com/aayushgenius/Genius-The-Python-chatbot
+* https://github.com/PolyMarsDev/Flappuccino (**220+** ⭐)
+* https://github.com/aayushgenius/Genius-The-Python-chatbot (**1** ⭐)
