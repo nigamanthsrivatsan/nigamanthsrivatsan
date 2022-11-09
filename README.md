@@ -5,12 +5,10 @@
 
 ## Links:
 
-<a href='https://nigamanth.com'>
-<img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.&logoColor=white'>
-</a>
-<a href='mailto:nigamanth.srivatsan@gmail.com'>
-<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
-</a>
+**Website:** https://nigamanth.com
+**Email:** nigamanth.srivatsan@gmail.com
+**Discord:** `Imp#6969`
+**Discord Server:** https://discord.gg/dankers (**14,000**+ members) 
 
 ## Popular Work:
 > My most popular repositories arranged by their star count.
