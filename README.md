@@ -1,7 +1,17 @@
-# nigamanthsrivatsan
+<div style="display: grid; grid-template-columns: auto auto;">
+    <div class="circle" style="background-color: #999; border-radius: 50%; width: fit-content; padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 20px;">
+        <img src='https://raw.githubusercontent.com/nigamanthsrivatsan/nigamanthsrivatsan/main/knight-removebg-preview.png' width='72'>
+        </img>
+    </div>
+    <div class="text" style="margin-top: 25px;">
+        <h1>Nigamanth Srivatsan</h1>
+    </div>
+</div>
+<p> Knight depicting Nigamanth's attitude to coding. </p>
 
 > My name is **Nigamanth Srivatsan**, I live in India. <br>
 > Programming is my passion and I've been doing projects seriously since 13. 
+
 
 ## Links:
 
