@@ -9,6 +9,7 @@
 **Email:** nigamanth.srivatsan@gmail.com <br>
 **Discord:** `Imp#6969` <br>
 **Discord Server:** https://discord.gg/dankers (**14,000**+ members) 
+**Chess:** https://www.chess.com/member/nigamanth
 
 ## Popular Work:
 > My most popular repositories arranged by their star count.
