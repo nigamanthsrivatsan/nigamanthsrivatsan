@@ -5,9 +5,9 @@
 
 ## Links:
 
-**Website:** https://nigamanth.com
-**Email:** nigamanth.srivatsan@gmail.com
-**Discord:** `Imp#6969`
+**Website:** https://nigamanth.com <br>
+**Email:** nigamanth.srivatsan@gmail.com <br>
+**Discord:** `Imp#6969` <br>
 **Discord Server:** https://discord.gg/dankers (**14,000**+ members) 
 
 ## Popular Work:
