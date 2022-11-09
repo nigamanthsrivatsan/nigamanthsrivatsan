@@ -1,4 +1,4 @@
-
+<img src='./header.png'>
 
 > My name is **Nigamanth Srivatsan**, I live in India. <br>
 > Programming is my passion and I've been doing projects seriously since 13. 
