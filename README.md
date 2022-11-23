@@ -6,13 +6,13 @@
 ## Popular Work:
 > My most popular repositories arranged by their star count.
 
-* https://github.com/nigamanthsrivatsan/Pantha (**4** ⭐)
+* https://github.com/nigamanthsrivatsan/Pantha (**5** ⭐)
 * https://github.com/nigamanthsrivatsan/nigamanth.com (**1** ⭐)
 
 ## Contribued To:
 > Every repository that I have commited to. 
 
-* https://github.com/PolyMarsDev/Flappuccino (**220+** ⭐)
+* https://github.com/PolyMarsDev/Flappuccino (**230+** ⭐)
 * https://github.com/aayushgenius/Genius-The-Python-chatbot (**1** ⭐)
 
 ## Links:
