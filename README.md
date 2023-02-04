@@ -6,7 +6,7 @@
 ## Popular Work:
 > My most popular repositories arranged by their star count.
 
-* https://github.com/nigamanthsrivatsan/Pantha (**6** ⭐)
+* https://github.com/nigamanthsrivatsan/Pantha (**7** ⭐)
 * https://github.com/nigamanthsrivatsan/nigamanth.com (**3** ⭐)
 
 ## Contribued To:
