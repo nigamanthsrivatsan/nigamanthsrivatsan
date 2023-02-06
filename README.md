@@ -7,7 +7,7 @@
 > My most popular repositories arranged by their star count.
 
 * https://github.com/nigamanthsrivatsan/Pantha (**7** ⭐)
-* https://github.com/nigamanthsrivatsan/nigamanth.com (**3** ⭐)
+* https://github.com/nigamanthsrivatsan/nigamanth.com (**4** ⭐)
 
 ## Contribued To:
 > Every repository that I have commited to. 
