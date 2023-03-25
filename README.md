@@ -13,11 +13,5 @@
 > Every repository that I have commited to. 
 
 * https://github.com/PolyMarsDev/Flappuccino (**270+** ⭐)
+* https://github.com/shogundevel/shark (**60+** ⭐)
 * https://github.com/aayushgenius/Genius-The-Python-chatbot (**1** ⭐)
-
-## Links:
-
-**Website:** https://nigamanth.com <br>
-**Email:** nigamanth.srivatsan@gmail.com <br>
-**Chess:** https://www.chess.com/member/nigamanth <br>
-**Hacker News:** https://news.ycombinator.com/user?id=nigamanth
