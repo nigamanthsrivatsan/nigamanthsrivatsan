@@ -12,5 +12,6 @@
 > Every repository that I have commited to. 
 
 * https://github.com/PolyMarsDev/Flappuccino (**270+** ⭐)
-* https://github.com/shogundevel/shark (**90+** ⭐)
+* https://github.com/shogundevel/shark (**100+** ⭐)
+* https://github.com/neutron-sync/neutron-sync (**10+** ⭐)
 * https://github.com/aayushgenius/Genius-The-Python-chatbot (**1** ⭐)
