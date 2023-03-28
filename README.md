@@ -8,8 +8,8 @@
 
 * in progress
 
-## Contribued To:
-> Every repository that I have commited to. 
+## Contributed To:
+> Every external repository that I have contributed to:
 
 * https://github.com/PolyMarsDev/Flappuccino (**270+** ⭐)
 * https://github.com/shogundevel/shark (**100+** ⭐)
