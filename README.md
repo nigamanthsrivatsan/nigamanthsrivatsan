@@ -11,7 +11,7 @@
 ## Contributed To:
 > Every external repository that I have contributed to:
 
-* https://github.com/nat/openplayground (**1,400+** ⭐)
+* https://github.com/nat/openplayground (**1,600+** ⭐)
 * https://github.com/PolyMarsDev/Flappuccino (**270+** ⭐)
 * https://github.com/shogundevel/shark (**100+** ⭐)
 * https://github.com/neutron-sync/neutron-sync (**10+** ⭐)
