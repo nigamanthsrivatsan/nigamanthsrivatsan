@@ -6,7 +6,7 @@
 ## Popular Work:
 > My most popular repositories arranged by their star count.
 
-* in progress
+* https://github/com/nigamanthsrivatsan/Pantha (**6** ⭐)
 
 ## Contributed To:
 > Every external repository that I have contributed to:
