@@ -3,11 +3,6 @@
 > My name is **Nigamanth Srivatsan**, I live in India. <br>
 > Programming is my passion and I've been doing projects seriously since 13. 
 
-## Popular Work:
-> My most popular repositories arranged by their star count.
-
-* https://github/com/nigamanthsrivatsan/Pantha (**6** ⭐)
-
 ## Contributed To:
 > Every external repository that I have contributed to:
 
